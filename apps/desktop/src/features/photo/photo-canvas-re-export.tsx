@@ -1,0 +1,1 @@
+export { PhotoCanvas } from "./components/photo-canvas";

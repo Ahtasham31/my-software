@@ -1,0 +1,17 @@
+pub mod app;
+pub mod batch;
+pub mod dashboard;
+pub mod dashboard_prefs;
+pub mod data;
+pub mod dialog;
+pub mod favorites;
+pub mod files;
+pub mod fs;
+pub mod logging;
+pub mod ocr;
+pub mod passport;
+pub mod photo;
+pub mod projects;
+pub mod search;
+pub mod settings;
+pub mod storage;

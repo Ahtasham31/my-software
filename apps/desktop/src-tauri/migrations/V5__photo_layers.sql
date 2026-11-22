@@ -1,0 +1,1 @@
+ALTER TABLE photo_projects ADD COLUMN layers_json TEXT;
